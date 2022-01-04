@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sogiee
+- 👋 Hi, I’m Logan!
 - 👀 I’m interested in learning all i can in software development
 - 🌱 I’m currently learning everything i can:)
 - 💞️ I’m looking to collaborate on anything i can to further my studies
