@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sogiee
 - 👀 I’m interested in learning all i can in software development
 - 🌱 I’m currently learning everything i can:)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me message me here
+- 💞️ I’m looking to collaborate on anything i can to further my studies
+- 📫 How to reach me: Email me SoganLawyer@gmail.com
 
 <!---
 Sogiee/Sogiee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
